@@ -1,4 +1,4 @@
-package main
+package encryptor
 
 /*
 #cgo CPPFLAGS: -I./
